@@ -1,0 +1,14 @@
+package com.java.cheapter01_iterator;
+
+//서가를 나타내는 클래스
+//이 클래스를 집합체로 다루기 위해 Aggregate 인터페이스를 구현함
+public class BookShelf implements Aggregate {
+    private Book[] books;
+    private int last = 0;
+    public BookShelf(int maxsize){
+        this.books = new Book[maxsize];
+    }
+    public Book getBookAt(int index){
+        return books[index];
+    }
+}

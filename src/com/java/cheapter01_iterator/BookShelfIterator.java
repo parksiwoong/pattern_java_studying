@@ -5,6 +5,7 @@ public class BookShelfIterator implements Iterator {
     private BookShelf bookShelf;
     private int index;
 
+
     public BookShelfIterator(BookShelf bookShelf) {
         this.bookShelf = bookShelf;
         this.index = 0;
@@ -18,6 +19,7 @@ public class BookShelfIterator implements Iterator {
             int i;
             return false;
         }
+
     }
     @Override
     public Object next() {

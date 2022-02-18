@@ -1,4 +1,4 @@
-package com.java.cheapter01_iterator;
+package com.java.chapter01_iterator;
 
 //검색실행하는 클래스
 public class BookShelfIterator implements Iterator {

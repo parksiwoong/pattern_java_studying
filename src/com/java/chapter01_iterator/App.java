@@ -1,4 +1,4 @@
-package com.java.cheapter01_iterator;
+package com.java.chapter01_iterator;
 
 //tihs 를 쓰는 클래스 안에 단순한 전역변수(맴버변수) 초기화뿐 아니라 더 많은 이해를 위한 테스트
 public class App {

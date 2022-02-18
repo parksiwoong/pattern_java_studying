@@ -1,4 +1,4 @@
-package com.java.cheapter01_iterator;
+package com.java.chapter01_iterator;
 
 //하나씩 나열하며 루프 변수와 같은 역할 수행
 public interface Iterator {

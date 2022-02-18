@@ -1,4 +1,4 @@
-package com.java.cheapter01_iterator;
+package com.java.chapter01_iterator;
 
 // 책을 나타내는 클래스
 public class Book {

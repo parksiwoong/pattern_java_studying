@@ -1,4 +1,4 @@
-package com.java.cheapter01_iterator;
+package com.java.chapter01_iterator;
 
 import java.util.ArrayList;
 
@@ -25,7 +25,8 @@ public class BookShelf implements Aggregate {
 
 
     //0으로 초기화시킨 last에 0자리에 main에서 책한권을 넣어주며 last에도 책숫자도 그만큼 늘려줌
-    /*public  void appendBook(Book book){
+    /*
+    public  void appendBook(Book book){
     this.books[last] = book;
     last++;
     }

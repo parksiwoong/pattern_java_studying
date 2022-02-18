@@ -1,4 +1,4 @@
-package com.java.cheapter01_iterator;
+package com.java.chapter01_iterator;
 
 //집합체 aggregate = 모으다 , 모이다 , 집합
 public interface Aggregate {

@@ -1,4 +1,4 @@
-package com.java.chapter03_templateMethode.이해;
+package com.java.chapter03_templateMethode.예제.이해_1;
 
 public class mian {
     public static void main(String[] args) {
